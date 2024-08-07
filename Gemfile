@@ -87,3 +87,9 @@ end
   gem "rolify"
 
   gem "pundit"
+gem "sassc-rails"
+gem 'pygments.rb'
+gem 'redcarpet'
+gem 'friendly_id'
+gem 'mail_form'
+gem 'will_paginate'
